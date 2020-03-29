@@ -1,2 +1,3 @@
 # my_blog_notes
-myBlog study notes
+
+记录文章 和 面试题 等，做一些积累和学习的笔记，方便自己复习和查看。
