@@ -1,0 +1,28 @@
+{
+  "name": "my_blog_notes",
+  "version": "1.0.0",
+  "description": "记录文章 和 面试题 等，做一些积累和学习的笔记，方便自己复习和查看。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalkAlone0325/my_blog_notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalkAlone0325/my_blog_notes/issues"
+  },
+  "homepage": "https://github.com/WalkAlone0325/my_blog_notes#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
